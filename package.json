@@ -1,7 +1,7 @@
 {
   "name": "stik",
   "version": "1.0.0",
-  "description": "A simple frontend boilerplate for static project using Gulp, Pug and Less",
+  "description": "A simple frontend boilerplate for static project using Gulp, Pug and Sass",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LFeh/kratos-boilerplate.git"

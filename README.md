@@ -1,5 +1,10 @@
 # Stik Boilerplate
 
+[![license](https://img.shields.io/github/license/fahimshahriyer/stik.svg)](./license.md)
+[![GitHub contributors](https://img.shields.io/github/contributors/fahimshahriyer/stik.svg)](https://github.com/fahimshahriyer/stik/graphs/contributors)
+
+A simple frontend boilerplate for static project using Gulp, Pug and Less
+
 This project uses Pug, Sass, Gulp and Browsersync.
 
 Know more about them:
@@ -22,8 +27,8 @@ First of all, install the dependencies to run this boilerplate.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:LFeh/kratos-boilerplate.git
-$ cd kratos-boilerplate
+$ git clone git@github.com:fahimshahriyer/stik.git
+$ cd stik
 
 # install gulp globally
 $ npm install -g gulp
@@ -51,7 +56,7 @@ With the commands above, you have everything to start.
 └── src
     ├── img/
     ├── svg/
-│   ├── icons/
+    ├── icons/
     ├── js/
     ├── scss
     │   ├── 0-base/*.scss
