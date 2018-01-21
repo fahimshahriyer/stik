@@ -59,12 +59,12 @@ With the commands above, you have everything to start.
     ├── icons/
     ├── js/
     ├── scss
-    │   ├── 0-base/*.scss
-    │   ├── 1-vendors/*.scss
-    │   ├── 2-helpers/*.scss
-    │   ├── 3-layouts/*.scss
-    │   ├── 4-modules/*.scss
-    │   ├── 5-pages/*.scss
+    │   ├── abstracts/*.scss
+    │   ├── base/*.scss
+    │   ├── layouts/*.scss
+    │   ├── modules/*.scss
+    │   ├── pages/*.scss
+    │   ├── vendor/*.scss
     └── pug
         └── index.pug
 ```
