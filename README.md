@@ -11,7 +11,7 @@ Know more about them:
 - [NPM Scripts](https://docs.npmjs.com/misc/scripts)
 - [GulpJS](http://gulpjs.com/)
 - [Pug](https://github.com/pugjs/pug)
-- [Stylus](http://learnboost.github.io/stylus/)
+- [Sass](http://sass-lang.com/)
 - [Browsersync](https://www.browsersync.io/)
 
 
